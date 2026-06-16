@@ -1,3 +1,4 @@
 baseURL: https://generik.dev/
 locale: en-uk
 title: Yash Saksena Portfolio Site
+theme: hugo-profile
