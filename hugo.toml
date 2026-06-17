@@ -14,14 +14,11 @@ style = "aura-theme-dark-soft"
 
 [params]
   author = "Yash Saksena"
-  info = "Game Dev | Tech Artist"
+  info = "Software Engineer | Tech Artist "
   description = "Yash's site"
   keywords = "developer,portfolio,projects"
   avatarurl = "https://media.licdn.com/dms/image/v2/D5603AQHveQ6iVoxXsQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1705643706487?e=1782950400&v=beta&t=K3a6DBmcHaRvX6r-6YzYZ8TrB4n9ZKsL3JhtDVZCvZM"
   #gravatar = "john.doe@example.com"
-
-  faviconSVG = "/images/logos/favicon.svg"
-
 
   enableTwemoji = true
 
