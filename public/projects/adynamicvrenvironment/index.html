@@ -14,6 +14,8 @@
 
 <meta name="author" content="Yash Saksena">
 <meta name="description" content="
+
+
     
         
     
@@ -171,38 +173,122 @@ View the PDF file here.
       </h1>
     </header>
 
-    <div class="embed-pdf-container" id="embed-pdf-container-db496723">
-    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-db496723">
-        <div class="pdf-loading" id="pdf-loading-db496723"></div>
+    <script type="text/javascript" src='/js/pdf-js/build/pdf.js'></script>
+
+<style>
+  #embed-pdf-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 20vh;
+     
+  }
+  
+  .pdf-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  #the-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  
+  .pdf-loadingWrapper {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+  }
+  
+  .pdf-loading {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #d2d0d0;;
+    border-radius: 50%;
+    border-top-color: #383838;
+    animation: spin 1s ease-in-out infinite;
+    -webkit-animation: spin 1s ease-in-out infinite;
+  }
+  
+  
+  
+  
+  
+  #overlayText {
+    word-wrap: break-word;
+    display: grid;
+    justify-content: end;
+  }
+  
+  #overlayText a {
+    position: relative;
+    top: 10px;
+    right: 4px;
+    color: #000;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 0.3em 1em;
+    border: solid 2px;
+    border-radius: 12px;
+    border-color: #00000030;
+    text-decoration: none;
+  }
+  
+  #overlayText svg {
+    height: clamp(1em, 2vw, 1.4em);
+    width:  clamp(1em, 2vw, 1.4em);
+  }
+  
+  
+  
+  @keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  @-webkit-keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  </style><div class="embed-pdf-container" id="embed-pdf-container-c54b6070">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-c54b6070">
+        <div class="pdf-loading" id="pdf-loading-c54b6070"></div>
     </div>
     <div id="overlayText">
-      <a href="../../documents/FIT2098_A2_Ideation_Documentation.pdf" aria-label="Download" download>
+      <a href="../../documents/FIT2098IdeationDocumentation.pdf" aria-label="Download" download>
         <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
             <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
         </svg>
       </a>
     </div>
-    <canvas class="pdf-canvas" id="pdf-canvas-db496723"></canvas>
+    <canvas class="pdf-canvas" id="pdf-canvas-c54b6070"></canvas>
 </div>
 
-<div class="pdf-paginator" id="pdf-paginator-db496723">
-    <button id="pdf-prev-db496723">Previous</button>
-    <button id="pdf-next-db496723">Next</button> &nbsp; &nbsp;
+<div class="pdf-paginator" id="pdf-paginator-c54b6070">
+    <button id="pdf-prev-c54b6070">Previous</button>
+    <button id="pdf-next-c54b6070">Next</button> &nbsp; &nbsp;
     <span>
-      <span class="pdf-pagenum" id="pdf-pagenum-db496723"></span> / <span class="pdf-pagecount" id="pdf-pagecount-db496723"></span>
+      <span class="pdf-pagenum" id="pdf-pagenum-c54b6070"></span> / <span class="pdf-pagecount" id="pdf-pagecount-c54b6070"></span>
     </span>
-    <a class="pdf-source" id="pdf-source-db496723" href="../../documents/FIT2098_A2_Ideation_Documentation.pdf">[pdf]</a>
+    <a class="pdf-source" id="pdf-source-c54b6070" href="../../documents/FIT2098IdeationDocumentation.pdf">[pdf]</a>
 </div>
 
 <noscript>
-View the PDF file <a class="pdf-source" id="pdf-source-noscript-db496723" href="../../documents/FIT2098_A2_Ideation_Documentation.pdf">here</a>.
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-c54b6070" href="../../documents/FIT2098IdeationDocumentation.pdf">here</a>.
 </noscript>
 
 <script type="text/javascript">
     (function(){
-    var url = '..\/..\/documents\/FIT2098_A2_Ideation_Documentation.pdf';
+    var url = '..\/..\/documents\/FIT2098IdeationDocumentation.pdf';
 
-    var hidePaginator = "" === "true";
+    var hidePaginator = "true" === "true";
     var hideLoader = "" === "true";
     var selectedPageNum = parseInt("") || 1;
 
@@ -219,10 +305,10 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-db496723" href="
         pageRendering = false,
         pageNumPending = null,
         scale = 3,
-        canvas = document.getElementById('pdf-canvas-db496723'),
+        canvas = document.getElementById('pdf-canvas-c54b6070'),
         ctx = canvas.getContext('2d'),
-        paginator = document.getElementById("pdf-paginator-db496723"),
-        loadingWrapper = document.getElementById('pdf-loadingWrapper-db496723');
+        paginator = document.getElementById("pdf-paginator-c54b6070"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-c54b6070');
 
 
     
@@ -260,7 +346,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-db496723" href="
       });
 
       
-      document.getElementById('pdf-pagenum-db496723').textContent = num;
+      document.getElementById('pdf-pagenum-c54b6070').textContent = num;
     }
 
     
@@ -304,7 +390,7 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-db496723" href="
       pageNum--;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-prev-db496723').addEventListener('click', onPrevPage);
+    document.getElementById('pdf-prev-c54b6070').addEventListener('click', onPrevPage);
 
     
 
@@ -315,14 +401,14 @@ View the PDF file <a class="pdf-source" id="pdf-source-noscript-db496723" href="
       pageNum++;
       queueRenderPage(pageNum);
     }
-    document.getElementById('pdf-next-db496723').addEventListener('click', onNextPage);
+    document.getElementById('pdf-next-c54b6070').addEventListener('click', onNextPage);
 
     
 
     pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
       pdfDoc = pdfDoc_;
       var numPages = pdfDoc.numPages;
-      document.getElementById('pdf-pagecount-db496723').textContent = numPages;
+      document.getElementById('pdf-pagecount-c54b6070').textContent = numPages;
 
       
       if(pageNum > numPages) {
