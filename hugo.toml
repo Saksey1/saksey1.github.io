@@ -1,3 +1,62 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseurl = "https://www.generik.dev"
+title = "Yash Saksena"
+theme = "hugo-coder"
+locale = "en-uk"
+defaultcontentlanguage = "en"
+
+
+[pagination]
+pagerSize = 20
+
+
+[markup.highlight]
+style = "aura-theme-dark-soft"
+
+[params]
+  author = "Yash Saksena"
+  info = "Game Dev | Tech Artist"
+  description = "Yash's site"
+  keywords = "developer,portfolio,projects"
+  avatarurl = "https://media.licdn.com/dms/image/v2/D5603AQHveQ6iVoxXsQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1705643706487?e=1782950400&v=beta&t=K3a6DBmcHaRvX6r-6YzYZ8TrB4n9ZKsL3JhtDVZCvZM"
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "/images/logos/favicon.svg"
+
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/saksey1/"
+[[params.social]]
+  name = "Itch"
+  icon = "fa-brands fa-itch-io fa-2x"
+  weight = 3
+  url = "https://generik.itch.io"
+[[params.social]]
+name = "Itch"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 3
+url = "https://www.linkedin.com/in/yash-saksena-4a9b2616b/"
+
+# Menu links
+[[menu.main]]
+  name = "Projects"
+  weight = 1
+  url  = "projects/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"
