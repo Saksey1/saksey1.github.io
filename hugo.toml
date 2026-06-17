@@ -1,9 +1,9 @@
 baseurl = "https://www.generik.dev"
 title = "Yash Saksena"
-theme = "hugo-coder"
+theme = ["hugo-embed-pdf-shortcode","hugo-coder"]
 locale = "en-uk"
 defaultcontentlanguage = "en"
-
+enableInlineShortcodes = true
 
 [pagination]
 pagerSize = 20
