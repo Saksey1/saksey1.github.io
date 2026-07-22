@@ -2,62 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.generik.dev/projects/aworldwithinaworld/</loc>
+    <loc>http://localhost:1313/projects/aworldwithinaworld/</loc>
     <lastmod>2026-06-17T12:34:56+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2026-06-17T12:34:56+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-06-17T12:34:56+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/projects/adynamicvrenvironment/</loc>
+    <loc>http://localhost:1313/projects/adynamicvrenvironment/</loc>
     <lastmod>2026-06-17T12:19:08+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-06-17T04:14:04+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/tags/c%23/</loc>
+    <loc>http://localhost:1313/tags/c%23/</loc>
     <lastmod>2026-06-17T04:03:30+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/tags/programming/</loc>
+    <loc>http://localhost:1313/tags/programming/</loc>
     <lastmod>2026-06-17T04:03:30+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/tags/sound-design/</loc>
+    <loc>http://localhost:1313/tags/sound-design/</loc>
     <lastmod>2026-06-17T04:03:30+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-06-17T04:03:30+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/tags/unity/</loc>
+    <loc>http://localhost:1313/tags/unity/</loc>
     <lastmod>2026-06-17T04:03:30+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/projects/sonicsaudioenvironment/</loc>
+    <loc>http://localhost:1313/projects/sonicsaudioenvironment/</loc>
     <lastmod>2026-06-17T04:03:30+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/projects/soundscape/</loc>
+    <loc>http://localhost:1313/projects/soundscape/</loc>
     <lastmod>2026-03-10T12:04:33+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/projects/unrealenginecitybuildingtool/</loc>
+    <loc>http://localhost:1313/projects/unrealenginecitybuildingtool/</loc>
     <lastmod>2025-11-10T08:36:38+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-09-02T07:59:20+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/categories/monash/</loc>
+    <loc>http://localhost:1313/categories/monash/</loc>
     <lastmod>2025-09-02T07:59:20+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/categories/tech-artist/</loc>
+    <loc>http://localhost:1313/categories/tech-artist/</loc>
     <lastmod>2025-09-02T07:59:20+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/categories/unreal-engine/</loc>
+    <loc>http://localhost:1313/categories/unreal-engine/</loc>
     <lastmod>2025-09-02T07:59:20+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/projects/unrealengineshaders/</loc>
+    <loc>http://localhost:1313/projects/unrealengineshaders/</loc>
     <lastmod>2025-09-02T07:59:20+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/authors/</loc>
+    <loc>http://localhost:1313/projects/exodus/</loc>
+    <lastmod>2024-04-26T04:03:30+10:00</lastmod>
   </url><url>
-    <loc>http://www.generik.dev/series/</loc>
+    <loc>http://localhost:1313/tags/game-design/</loc>
+    <lastmod>2024-04-26T04:03:30+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

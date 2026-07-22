@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Game Design on Yash Saksena</title>
+		<link>http://localhost:1313/tags/game-design/</link>
+		<description>Recent content in Game Design on Yash Saksena</description>
+		<generator>Hugo</generator>
+		<language>en-uk</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 26 Apr 2024 04:03:30 +1000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/game-design/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Exodus</title>
+				<link>http://localhost:1313/projects/exodus/</link>
+				<pubDate>Fri, 26 Apr 2024 04:03:30 +1000</pubDate>
+				<guid>http://localhost:1313/projects/exodus/</guid>
+				<description>&lt;p&gt;&lt;strong&gt;Exodus&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Andrew Huan, Kalisha Munasinghe, Krishna Rao, Yash Saksena&lt;/p&gt;&#xA;&lt;h1 id=&#34;print--play-prototype-print--play-prototype&#34;&gt;&#xD;&#xA;  &lt;strong&gt;Print &amp;amp; Play Prototype&lt;/strong&gt; {#print-&amp;amp;-play-prototype}&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#print--play-prototype-print--play-prototype&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h1 id=&#34;overview--core-concept-overview--core-concept&#34;&gt;&#xD;&#xA;  &lt;strong&gt;Overview &amp;amp; Core Concept&lt;/strong&gt; {#overview-&amp;amp;-core-concept}&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#overview--core-concept-overview--core-concept&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;The Narrative of the game involves the Cyborgs trying to escape from the facility using various augments and the scientist trying to prevent them by placing various traps around the facility and summoning robot enemies.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

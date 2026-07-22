@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tech Artist on Yash Saksena</title>
-		<link>http://www.generik.dev/categories/tech-artist/</link>
+		<link>http://localhost:1313/categories/tech-artist/</link>
 		<description>Recent content in Tech Artist on Yash Saksena</description>
 		<generator>Hugo</generator>
 		<language>en-uk</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 02 Sep 2025 07:59:20 +1000</lastBuildDate>
 		
-			<atom:link href="http://www.generik.dev/categories/tech-artist/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/categories/tech-artist/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Unreal Engine Shaders</title>
-				<link>http://www.generik.dev/projects/unrealengineshaders/</link>
+				<link>http://localhost:1313/projects/unrealengineshaders/</link>
 				<pubDate>Tue, 02 Sep 2025 07:59:20 +1000</pubDate>
-				<guid>http://www.generik.dev/projects/unrealengineshaders/</guid>
+				<guid>http://localhost:1313/projects/unrealengineshaders/</guid>
 				<description>&lt;h1 id=&#34;project-theme---velocity-contrast--reversal&#34;&gt;&#xD;&#xA;  Project Theme - Velocity, Contrast &amp;amp; Reversal&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#project-theme---velocity-contrast--reversal&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h3 id=&#34;project-file&#34;&gt;&#xD;&#xA;  &lt;a href=&#34;https://drive.google.com/file/d/1Fjsf4H5LkCsLWPXlqH-c4-cDW12D4iei/view?usp=sharing&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;&lt;strong&gt;Project File&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#project-file&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;h3 id=&#34;tricount--13-380&#34;&gt;&#xD;&#xA;  &lt;em&gt;TriCount : 13, 380&lt;/em&gt;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#tricount--13-380&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;h3 id=&#34;fps-100-on-an-rtx4070-mobile-with-latest-studio-drivers&#34;&gt;&#xD;&#xA;  &lt;em&gt;FPS: ~100 on an RTX4070 Mobile With Latest Studio Drivers&lt;/em&gt;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#fps-100-on-an-rtx4070-mobile-with-latest-studio-drivers&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;h1 id=&#34;ideation&#34;&gt;&#xD;&#xA;  Ideation:&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ideation&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;When I heard of the theme, my primary idea was to create something related to the Doppler effect or similar to Return of the Obra Dinn. While I liked those ideas, I was not 100% certain that they would cover the scope of the requirements. To further adhere to the theme, I also decided to follow a Vapour/Synth Wave theme for the overall look of the area.&lt;/p&gt;</description>
 			</item>
 	</channel>
