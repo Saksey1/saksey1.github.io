@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on Yash Saksena</title>
-		<link>http://localhost:1313/categories/</link>
+		<link>http://www.generik.dev/categories/</link>
 		<description>Recent content in Categories on Yash Saksena</description>
 		<generator>Hugo</generator>
 		<language>en-uk</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Tue, 02 Sep 2025 07:59:20 +1000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://www.generik.dev/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Monash</title>
-				<link>http://localhost:1313/categories/monash/</link>
+				<link>http://www.generik.dev/categories/monash/</link>
 				<pubDate>Tue, 02 Sep 2025 07:59:20 +1000</pubDate>
-				<guid>http://localhost:1313/categories/monash/</guid>
+				<guid>http://www.generik.dev/categories/monash/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Tech Artist</title>
-				<link>http://localhost:1313/categories/tech-artist/</link>
+				<link>http://www.generik.dev/categories/tech-artist/</link>
 				<pubDate>Tue, 02 Sep 2025 07:59:20 +1000</pubDate>
-				<guid>http://localhost:1313/categories/tech-artist/</guid>
+				<guid>http://www.generik.dev/categories/tech-artist/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Unreal Engine</title>
-				<link>http://localhost:1313/categories/unreal-engine/</link>
+				<link>http://www.generik.dev/categories/unreal-engine/</link>
 				<pubDate>Tue, 02 Sep 2025 07:59:20 +1000</pubDate>
-				<guid>http://localhost:1313/categories/unreal-engine/</guid>
+				<guid>http://www.generik.dev/categories/unreal-engine/</guid>
 				<description></description>
 			</item>
 	</channel>

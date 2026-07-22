@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Sound Design on Yash Saksena</title>
-		<link>http://localhost:1313/tags/sound-design/</link>
+		<link>http://www.generik.dev/tags/sound-design/</link>
 		<description>Recent content in Sound Design on Yash Saksena</description>
 		<generator>Hugo</generator>
 		<language>en-uk</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 17 Jun 2026 04:03:30 +1000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/sound-design/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://www.generik.dev/tags/sound-design/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Unity Dynamic Audio Environment</title>
-				<link>http://localhost:1313/projects/sonicsaudioenvironment/</link>
+				<link>http://www.generik.dev/projects/sonicsaudioenvironment/</link>
 				<pubDate>Wed, 17 Jun 2026 04:03:30 +1000</pubDate>
-				<guid>http://localhost:1313/projects/sonicsaudioenvironment/</guid>
+				<guid>http://www.generik.dev/projects/sonicsaudioenvironment/</guid>
 				<description>&lt;h1 id=&#34;link-to-web-build&#34;&gt;&#xD;&#xA;  &lt;a href=&#34;https://monash3d.xyz/FIT3172/2026/A3/YashSaksena_1781529952214_d085r/index.html&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link To Web Build&lt;/a&gt;&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#link-to-web-build&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;programs-used&#34;&gt;&#xD;&#xA;  Programs Used&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#programs-used&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;FMod Studio&lt;/li&gt;&#xA;&lt;li&gt;Unity&lt;/li&gt;&#xA;&lt;li&gt;Rider&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;event-statement-185-words&#34;&gt;&#xD;&#xA;  Event Statement (185 words):&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#event-statement-185-words&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;*Slight Spoilers for 007 Firstlight Ahead.*&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The Idea behind this was from 007 firstlight, where you explore “an evil corporate entity”, taking from this I thought what if this is a non-descript base of an evil entity so I thought it would be interesting to do like scifi stuff. I split it into 4 key areas, The outer Server farm area, the inner hall/console area, the garden, and the generator.&lt;/p&gt;</description>
 			</item>
 	</channel>

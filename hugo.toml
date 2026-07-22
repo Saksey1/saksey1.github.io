@@ -14,10 +14,10 @@ style = "aura-theme-dark-soft"
 
 [params]
   author = "Yash Saksena"
-  info = "Software Engineer | Tech Artist "
-  description = "Yash's site"
+  info = "Software Engineer | Tech Artist | Games Generalist "
+  description = "Yash's Protfolio"
   keywords = "developer,portfolio,projects"
-  avatarurl = "images/FaceShot.jpg"
+  avatarurl = "/images/avatar.jpg"
   #gravatar = "john.doe@example.com"
 
   enableTwemoji = true

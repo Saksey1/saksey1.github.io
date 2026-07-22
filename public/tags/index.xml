@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Yash Saksena</title>
-		<link>http://localhost:1313/tags/</link>
+		<link>http://www.generik.dev/tags/</link>
 		<description>Recent content in Tags on Yash Saksena</description>
 		<generator>Hugo</generator>
 		<language>en-uk</language>
@@ -12,33 +12,33 @@
 		
 			<lastBuildDate>Wed, 17 Jun 2026 04:03:30 +1000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://www.generik.dev/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>C#</title>
-				<link>http://localhost:1313/tags/c%23/</link>
+				<link>http://www.generik.dev/tags/c%23/</link>
 				<pubDate>Wed, 17 Jun 2026 04:03:30 +1000</pubDate>
-				<guid>http://localhost:1313/tags/c%23/</guid>
+				<guid>http://www.generik.dev/tags/c%23/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Programming</title>
-				<link>http://localhost:1313/tags/programming/</link>
+				<link>http://www.generik.dev/tags/programming/</link>
 				<pubDate>Wed, 17 Jun 2026 04:03:30 +1000</pubDate>
-				<guid>http://localhost:1313/tags/programming/</guid>
+				<guid>http://www.generik.dev/tags/programming/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Sound Design</title>
-				<link>http://localhost:1313/tags/sound-design/</link>
+				<link>http://www.generik.dev/tags/sound-design/</link>
 				<pubDate>Wed, 17 Jun 2026 04:03:30 +1000</pubDate>
-				<guid>http://localhost:1313/tags/sound-design/</guid>
+				<guid>http://www.generik.dev/tags/sound-design/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Unity</title>
-				<link>http://localhost:1313/tags/unity/</link>
+				<link>http://www.generik.dev/tags/unity/</link>
 				<pubDate>Wed, 17 Jun 2026 04:03:30 +1000</pubDate>
-				<guid>http://localhost:1313/tags/unity/</guid>
+				<guid>http://www.generik.dev/tags/unity/</guid>
 				<description></description>
 			</item>
 	</channel>
