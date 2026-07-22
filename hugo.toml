@@ -43,10 +43,16 @@ style = "aura-theme-dark-soft"
   weight = 3
   url = "https://generik.itch.io"
 [[params.social]]
-name = "Itch"
-icon = "fa-brands fa-linkedin fa-2x"
-weight = 3
-url = "https://www.linkedin.com/in/yash-saksena-4a9b2616b/"
+  name = "Itch"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/yash-saksena-4a9b2616b/"
+[[params.social]]
+  name = "Resume"
+  icon = "fa-regular fa-file fa-2x"
+  weight = 3
+  url = "../../documents/YashSaksenaResume-23Jul26.pdf"
+
 
 # Menu links
 [[menu.main]]
